@@ -8,7 +8,7 @@ So here goes: A very quick and dirty approach with some prep of the dataset, but
 
 (spoiler alert)
 
-...not bad: f-score 81%.
+...not bad: f1-score 81%.
 
 URL: https://www.kaggle.com/c/titanic/data
 
