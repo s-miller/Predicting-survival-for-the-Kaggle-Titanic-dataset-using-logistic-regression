@@ -12,4 +12,4 @@ So here goes: A very quick and dirty approach with some prep of the dataset, but
 
 URL: https://www.kaggle.com/c/titanic/data
 
-As an aside, some useful learning had here about good and bad ways to (try to) write values to a dataframe!
+As an aside, some useful learning had here about good and bad ways to (try to) write values to a pandas dataframe!
